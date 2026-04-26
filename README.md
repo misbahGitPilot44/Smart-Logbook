@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
 # Smart-Logbook
 Civic Resolve Intelligent Complaint Routing
 =======
