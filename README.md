@@ -1,7 +1,3 @@
-
-# Smart-Logbook
-Civic Resolve Intelligent Complaint Routing
-=======
 # Civic Resolve - Intelligent Complaint Routing
 
 Civic Resolve is a state-of-the-art maintenance complaint management system that leverages Machine Learning to automate ticket routing and streamline campus maintenance workflows.
